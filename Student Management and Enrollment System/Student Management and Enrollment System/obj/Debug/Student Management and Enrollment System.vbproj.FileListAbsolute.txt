@@ -1,0 +1,10 @@
+c:\users\software\documents\visual studio 2015\Projects\Student Management and Enrollment System\Student Management and Enrollment System\bin\Debug\Student Management and Enrollment System.exe.config
+c:\users\software\documents\visual studio 2015\Projects\Student Management and Enrollment System\Student Management and Enrollment System\bin\Debug\Student Management and Enrollment System.exe
+c:\users\software\documents\visual studio 2015\Projects\Student Management and Enrollment System\Student Management and Enrollment System\bin\Debug\Student Management and Enrollment System.pdb
+c:\users\software\documents\visual studio 2015\Projects\Student Management and Enrollment System\Student Management and Enrollment System\bin\Debug\Student Management and Enrollment System.xml
+c:\users\software\documents\visual studio 2015\Projects\Student Management and Enrollment System\Student Management and Enrollment System\obj\Debug\Student Management and Enrollment System.vbprojResolveAssemblyReference.cache
+c:\users\software\documents\visual studio 2015\Projects\Student Management and Enrollment System\Student Management and Enrollment System\obj\Debug\Student_Management_and_Enrollment_System.Resources.resources
+c:\users\software\documents\visual studio 2015\Projects\Student Management and Enrollment System\Student Management and Enrollment System\obj\Debug\Student Management and Enrollment System.vbproj.GenerateResource.Cache
+c:\users\software\documents\visual studio 2015\Projects\Student Management and Enrollment System\Student Management and Enrollment System\obj\Debug\Student Management and Enrollment System.exe
+c:\users\software\documents\visual studio 2015\Projects\Student Management and Enrollment System\Student Management and Enrollment System\obj\Debug\Student Management and Enrollment System.xml
+c:\users\software\documents\visual studio 2015\Projects\Student Management and Enrollment System\Student Management and Enrollment System\obj\Debug\Student Management and Enrollment System.pdb
